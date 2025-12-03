@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Đặng Trung Nguyên 
 * Student ID: 22BA13239
-* Student Group ID: Not-for-now
+* Student Group ID: 16
